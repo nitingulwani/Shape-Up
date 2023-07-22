@@ -9,12 +9,6 @@ Shape-Up is an easy-to-use fitness tracking web application. Its main goal is to
 
 Your journey to wellness starts here!
 
-# Team Members
-- Muhamad Miguel Emmara
-- Travis Ogle
-- Sungwoo Cho
-- Ghokkul Muhunthan
-
 ## Prerequisites
 
 - MonggoDB
@@ -81,6 +75,3 @@ This app build with below technologies
 ![Diet Profile](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/diet-profile.png)
 ![Meal Plan](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/screenshots/meal-plan.png)
 
-## License
-
-Copyright 2023. Code released under the [MIT license](https://github.com/Shape-Up-NZ/shape-up-app/blob/main/LICENSE).
